@@ -1,0 +1,10 @@
+---
+title: "STAT220-Oblig-6"
+author: "Sigbjørn Fjelland"
+date: "11/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
